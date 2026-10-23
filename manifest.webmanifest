@@ -1,0 +1,18 @@
+{
+  "name": "THTDN CRM",
+  "short_name": "THT CRM",
+  "description": "THTDN CRM – Hồ sơ & Hợp đồng, Dịch vụ kế toán",
+  "lang": "vi",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1c2b3a",
+  "theme_color": "#1c2b3a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
